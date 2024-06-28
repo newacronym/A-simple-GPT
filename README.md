@@ -5,7 +5,7 @@ A decoder-only GPTModel following the paper "Attention is All You Need"
 
 # Dataset
 ```https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt```
-~1M tokens ( character level ) = 100K tokens (sub-words level)
+~1M tokens ( character level )
 
 # Trainable Parameters
 ~10M 
