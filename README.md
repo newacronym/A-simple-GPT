@@ -16,4 +16,6 @@ n_embd = 384 <br/>
 n_heads = 6 <br/>
 n_layers = 6 <br/>
 
-
+NOTE:
+It's a decoder-only model <br/>
+It only has self-attention and not cross attention
