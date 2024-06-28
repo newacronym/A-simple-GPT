@@ -11,8 +11,9 @@ A decoder-only GPTModel following the paper "Attention is All You Need"
 ~10M trainable parameters
 
 ### Hyperparameters used
-No. of Embeddings = 384 <br/>
-No. of Heads = 6 <br/>
-No. of Layers = 6 <br/>
+block_size = 256 <br/>
+n_embd = 384 <br/>
+n_heads = 6 <br/>
+n_layers = 6 <br/>
 
 
