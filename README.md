@@ -11,7 +11,7 @@ A decoder-only GPTModel following the paper "Attention is All You Need"
 ~10M trainable parameters
 
 ### Hyperparameters used
-batch_size = 64 
+batch_size = 64 \n
 block_size = 256
 max_iters = 5000
 eval_interval = 500
