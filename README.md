@@ -11,7 +11,7 @@ A decoder-only GPTModel following the paper "Attention is All You Need"
 ~10M trainable parameters
 
 ### Hyperparameters used
-vocab_size = 65
+vocab_size = 65 <br/>
 block_size = 256 <br/>
 n_embd = 384 <br/>
 n_heads = 6 <br/>
